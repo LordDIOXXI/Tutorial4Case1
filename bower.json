@@ -1,0 +1,13 @@
+{
+    "name": "Tutorial04_Case_1_Jacob_West",
+    "version": "1.0.0",
+    "main": "path/to/main.css",
+    "ignore": [
+        ".jshintrc",
+        "**/*.txt"
+    ],
+    "dependencies": {
+    },
+    "devDependencies": {
+    }
+}
